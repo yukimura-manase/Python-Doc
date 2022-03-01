@@ -1,0 +1,70 @@
+
+< Django REST frameworkとは？ >
+
+「Django REST framework」とは、PythonのWebアプリケーションフレームワークであるDjangoを使ってAPIを開発するために利用されるライブラリです。
+
+< Django REST frameworkとは？わかりやすく解説 >
+
+「 Django REST framework 」とは、Djangoを利用して「RESTful」なAPIを実装することができるライブラリのことです。
+
+「DRF」と略されることもあります。「RESTful」なAPI、REST APIがどのようなものかについては後述します。
+
+REST APIを実装すれば、複数のアプリケーション間におけるデータのやり取りが簡単に行えます。
+
+例えば、UI構築に使われるフレームワーク「Vue.js」に対して、Djangoからデータを渡すことができるようになります。
+
+複数のフレームワークと連携させることができるので、充実したWebアプリケーションを構築するのに役立ちます。
+
+なお、Djangoとは、Pythonで実装されたWebアプリケーションフレームワークのことです。
+
+Webアプリ開発に必要な枠組みが準備されているため、開発を効率化できるなどのメリットがあります。
+
+
+
+
+
+
+【入門編】Django REST frameworkとは？チュートリアルで解説
+https://udemy.benesse.co.jp/development/python-work/django-rest-framework.html
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+< Django REST frameworkの環境構築 >
+
+1.  Anaconda Navigatorのインストール
+
+Macのターミナルに(base)と表示された時の対処法
+https://ymgsapo.com/2020/05/26/meanings-of-base-mac-terminal/
+
+
+Macのターミナルの先頭に(base)と表示された時に表示を消す方法
+https://code-graffiti.com/base-is-displayed-at-the-top-of-the-terminal-on-mac/
+
+
+2. PyCharm(無償のコミュニティ版をインストール)
+
+
+
+[Instagramクローン編] React Hooks + Django Restframework
+https://www.udemy.com/course/instagram-react-hooks-django-restframework/learn/lecture/21323732?start=1#overview
+
+
+
+django rest frameworkインストール
+https://qiita.com/sasanoworkz/items/87cf15f0ab6c936b31a5
+
+
+
+DjangoRESTframeworkのインストール、初期設定と最低限の動作確認
+https://tomato-develop.com/django-rest-framework-install-initial-settings/
+
+
+Django REST Frameworkを使って爆速でAPIを実装する
+https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8
+
+
+
+
+
+
+
